@@ -25,4 +25,76 @@ html {
 
 p {
     font-size: 1.5rem;
+    font-weight: 300;
+    opacity: .6;
+}
+
+h1 {
+    font-size: 3.8rem;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.head {
+    width: 50rem;
+    margin: 0 auto;
+    padding: 7rem 1rem ;
+    text-align: center;
+    color: var(--Very-Dark-Blue);
+}
+
+.head p {
+    max-width: 100%;
+}
+
+.head :first-child {
+    font-weight: 200;
+}
+
+.power {
+    margin: 0 0 2rem 0;
+}
+
+.container {
+    min-width: 50rem;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.card {
+    max-width: 35rem;
+    padding: 3rem;
+    height: 25rem;
+    margin-bottom: 3rem;
+    border-radius: 1rem;
+    color: var(--Very-Dark-Blue);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.left, .right {
+    display: flex;
+    align-items: center;
+}
+
+.one {
+    border-top: .5rem solid var(--Cyan);
+}
+.two {
+    border-top: .5rem solid var(--Red);
+}
+.three {
+    border-top: .5rem solid var(--Orange);
+}
+.four {
+    border-top: .5rem solid var(--Blue);
+}
+
+.icon {
+    position: relative;
+    top: 4.5rem;
+    left: 22rem;
 }
