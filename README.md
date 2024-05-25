@@ -19,13 +19,12 @@ If I had to do it again I would try to get an exact result without having to res
 
 ### Screenshot
 
-![](https://raw.githubusercontent.com/P-Mingi/QrCodePage.github.io/main/images/screen-shot.png)
+![](https://github.com/P-Mingi/Four-card-feature-section/blob/main/images/screenshot.png?raw=true)
 
 
 ### Links
 
-- Solution URL: [My Solution Site URL](https://www.frontendmentor.io/solutions/qr-code-htmlcss-visual-code-studio-IKej7PojBD)
-- Live Site URL: [My Live Site URL](https://p-mingi.github.io/QrCodePage.github.io/)
+- Live Site URL: [My Live Site URL](https://p-mingi.github.io/Four-card-feature-section/)
 
 
 ### Built with
